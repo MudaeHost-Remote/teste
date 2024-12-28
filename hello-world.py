@@ -1,6 +1,6 @@
 import selfcord
 
-token = 'OTUzMDkzOTkyMTAxMzQ3Mzg4.GjDOkl.H0pk8CuyySfK-MQYTyMS3UBWPt8DQpI4Fz20Ew'
+token = "OTUzMDkzOTkyMTAxMzQ3Mzg4.G1i7Ot.AS1xM7nAGxgmkn4_nbDrxTlnd_Z4FwQs5SA4ng"
 channelid = 1322603701222772776
 
 class MyClient(selfcord.Client):
