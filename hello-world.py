@@ -1,6 +1,7 @@
 import selfcord
+import os
 
-token = "OTUzMDkzOTkyMTAxMzQ3Mzg4.G1i7Ot.AS1xM7nAGxgmkn4_nbDrxTlnd_Z4FwQs5SA4ng"
+token = os.getenv("TOKEN")
 channelid = 1322603701222772776
 
 class MyClient(selfcord.Client):
